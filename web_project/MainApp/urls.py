@@ -6,5 +6,7 @@ from django.conf import settings
 
 urlpatterns = [
     path('' , views.home , name='home'),
-] + static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)
+    path('index/' , views.index , name='index'),
+
+] + static (settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)
     
