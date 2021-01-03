@@ -1,0 +1,46 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="{% static 'css/all.css' %}">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}">
+    <!-- Custom -->
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <!-- light_box-->
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+
+    <title>Es Vista</title>
+</head>
+
+<body>
+
+
+    <!-- App_bar -->
+    {% include 'partials/appbar.html' %}
+    <!-- end of App_bar -->
+
+    <!-- Navbar -->
+    {% include 'partials/navbar.html' %}
+    <!-- end of Navbar -->
+
+    <!-- Main Content -->
+    {% block content %} {% endblock content %}
+    <!-- end of Content -->
+
+    <!-- Footer -->
+    {% include 'partials/footer.html' %}
+    <!--End of footer -->
+
+
+    <script src="{% static 'js/jquery-3.3.1.min.js' %}"></script>
+    <script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+    <script src="{% static 'js/main.js' %}"></script>
+</body>
+
+</html>

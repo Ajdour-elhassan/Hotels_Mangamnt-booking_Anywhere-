@@ -5,10 +5,12 @@ class Realtors (models.Model):
   name = models.CharField(max_length=200)
   photo = models.ImageField(upload_to="Realtors_photo")
   description = models.TextField()
-  phone = models.IntegerField()
+  phone = models.CharField(max_length=20 , default="+212")
   email = models.EmailField(max_length=50)
   id_mvp = models.BooleanField(default=False)
-  hired_date = models.DateTimeField(default=datetime.now , blank=True) 
+  hire_date = models.DateTimeField(default=datetime.now , blank=True) 
+  
+  
   
   def __str__(self) :
     return self.name
