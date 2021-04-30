@@ -38,8 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'MainApp',
+    'account',
+    # 'contact',
     'django.contrib.humanize',
-    
 ]
 
 MIDDLEWARE = [
@@ -139,3 +140,18 @@ STATICFILES_DIRS = [
 #Media_files for storing Picture
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
+
+
+# Messages
+
+from django.contrib.messages import constants as messages
+MESSAGE_TAGS = {
+    messages.ERROR: 'danger' 
+}
+
+# SEND EMAIL
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 578
+EMAIL_HOST_USER = 'ajdourelhassa2096@gmail.com'
+EMAIL_HOST_PASSWORD = 'schooltech1996'
+EMAIL_USER_TLS = True

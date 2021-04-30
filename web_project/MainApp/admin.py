@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Realtors , Listing
+from .models import Realtors , Listing , Contact
 
 
 class ListingAdmin(admin.ModelAdmin) :
@@ -20,5 +20,16 @@ class RealtorAdmin(admin.ModelAdmin) :
   list_per_page = 25
   
 admin.site.register(Realtors, RealtorAdmin)
+
+
+class ContactAdmin(admin.ModelAdmin) :
+  list_display = ('id','name','listing','email','contact_date')
+  lits_display_link = ('id','name')
+  search_field = ('name', 'email','listing')
+  listing_per_page = 25
+  
+  
+admin.site.register(Contact, ContactAdmin)
+    
 
 

@@ -1,0 +1,1079 @@
+[
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "management",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Contact",
+        "importPath": "MainApp.models",
+        "description": "MainApp.models",
+        "isExtraImport": true,
+        "detail": "MainApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "case",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "Paginator",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "EmptyPage",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "PageNotAnInteger",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "constants",
+        "importPath": "django.contrib.messages",
+        "description": "django.contrib.messages",
+        "isExtraImport": true,
+        "detail": "django.contrib.messages",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "AccountConfig",
+        "kind": 6,
+        "importPath": "web_project.account.apps",
+        "description": "web_project.account.apps",
+        "peekOfCode": "class AccountConfig(AppConfig):\n    name = 'account'",
+        "detail": "web_project.account.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "web_project.account.urls",
+        "description": "web_project.account.urls",
+        "peekOfCode": "urlpatterns = [\n    path('creat_an_account/' , views.register , name='register'),\n    path('login' , views.login , name='login'),\n    path('logout' , views.logoutView , name='logout'),\n    path('dashboard' , views.dashboard , name='dashboard'),\n]",
+        "detail": "web_project.account.urls",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "web_project.account.views",
+        "description": "web_project.account.views",
+        "peekOfCode": "def register(request) :\n    if request.method == \"POST\" :\n        \"\"\" Get Value & Submitting Data \"\"\"\n        first_name = request.POST['first_name']\n        last_name = request.POST['last_name']\n        username = request.POST['username']\n        email = request.POST['email']\n        password = request.POST['password']\n        password2 = request.POST['password2']\n        #Check Password",
+        "detail": "web_project.account.views",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "web_project.account.views",
+        "description": "web_project.account.views",
+        "peekOfCode": "def login(request) :\n    if request.method == \"POST\" :\n        \"\"\" Submitting DATA \"\"\"\n        username = request.POST['username']\n        password = request.POST['password']\n        \"\"\" Check username & Password \"\"\"\n        user = auth.authenticate(username=username, password=password)\n        \"\"\" if user is Known in DATABASE \"\"\"\n        if user is not None :\n            auth.login(request, user)",
+        "detail": "web_project.account.views",
+        "documentation": {}
+    },
+    {
+        "label": "logoutView",
+        "kind": 2,
+        "importPath": "web_project.account.views",
+        "description": "web_project.account.views",
+        "peekOfCode": "def logoutView(request) :\n    \"\"\" Logout Function \"\"\"\n    logout(request) \n    return redirect('home')\n    return render(request , 'login.html')\n# USER DASHBOARD\ndef dashboard(request) :\n    \"\"\" FILTER RESERVED REALTOR \"\"\"\n    user_contact = Contact.objects.order_by('-contact_date').filter(user_id=request.user.id)\n    context = {",
+        "detail": "web_project.account.views",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": "web_project.account.views",
+        "description": "web_project.account.views",
+        "peekOfCode": "def dashboard(request) :\n    \"\"\" FILTER RESERVED REALTOR \"\"\"\n    user_contact = Contact.objects.order_by('-contact_date').filter(user_id=request.user.id)\n    context = {\n        'contacts' : user_contact\n    }\n    return render(request , 'dashboard.html', context)",
+        "detail": "web_project.account.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "web_project.MainApp.migrations.0001_initial",
+        "description": "web_project.MainApp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Listing',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=300)),",
+        "detail": "web_project.MainApp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "web_project.MainApp.migrations.0002_auto_20201220_1601",
+        "description": "web_project.MainApp.migrations.0002_auto_20201220_1601",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('MainApp', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='listing',\n            name='price',\n            field=models.IntegerField(max_length=100),\n        ),",
+        "detail": "web_project.MainApp.migrations.0002_auto_20201220_1601",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "web_project.MainApp.migrations.0003_delete_listing",
+        "description": "web_project.MainApp.migrations.0003_delete_listing",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('MainApp', '0002_auto_20201220_1601'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='Listing',\n        ),\n    ]",
+        "detail": "web_project.MainApp.migrations.0003_delete_listing",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "web_project.MainApp.migrations.0004_listing_realtors",
+        "description": "web_project.MainApp.migrations.0004_listing_realtors",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('MainApp', '0003_delete_listing'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Realtors',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "web_project.MainApp.migrations.0004_listing_realtors",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "web_project.MainApp.migrations.0005_listing_photo_5",
+        "description": "web_project.MainApp.migrations.0005_listing_photo_5",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('MainApp', '0004_listing_realtors'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='listing',\n            name='photo_5',\n            field=models.ImageField(blank=True, upload_to='listing_photo'),\n        ),",
+        "detail": "web_project.MainApp.migrations.0005_listing_photo_5",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "web_project.MainApp.migrations.0006_auto_20210121_1253",
+        "description": "web_project.MainApp.migrations.0006_auto_20210121_1253",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('MainApp', '0005_listing_photo_5'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='listing',\n            name='photo_1',\n            field=models.ImageField(blank=True, null=True, upload_to='listing_photo'),\n        ),",
+        "detail": "web_project.MainApp.migrations.0006_auto_20210121_1253",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "web_project.MainApp.migrations.0007_remove_listing_photo_5",
+        "description": "web_project.MainApp.migrations.0007_remove_listing_photo_5",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('MainApp', '0006_auto_20210121_1253'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='listing',\n            name='photo_5',\n        ),\n    ]",
+        "detail": "web_project.MainApp.migrations.0007_remove_listing_photo_5",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "web_project.MainApp.migrations.0008_auto_20210208_2332",
+        "description": "web_project.MainApp.migrations.0008_auto_20210208_2332",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('MainApp', '0007_remove_listing_photo_5'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Contactform',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "web_project.MainApp.migrations.0008_auto_20210208_2332",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "web_project.MainApp.migrations.0009_delete_contactform",
+        "description": "web_project.MainApp.migrations.0009_delete_contactform",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('MainApp', '0008_auto_20210208_2332'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='Contactform',\n        ),\n    ]",
+        "detail": "web_project.MainApp.migrations.0009_delete_contactform",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "web_project.MainApp.migrations.0010_contact",
+        "description": "web_project.MainApp.migrations.0010_contact",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('MainApp', '0009_delete_contactform'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Contact',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('listing', models.CharField(max_length=200)),",
+        "detail": "web_project.MainApp.migrations.0010_contact",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "web_project.MainApp.migrations.0011_auto_20210429_0315",
+        "description": "web_project.MainApp.migrations.0011_auto_20210429_0315",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('MainApp', '0010_contact'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='contact',\n            name='phone',\n            field=models.CharField(default=1, max_length=100),\n            preserve_default=False,",
+        "detail": "web_project.MainApp.migrations.0011_auto_20210429_0315",
+        "documentation": {}
+    },
+    {
+        "label": "ListingAdmin",
+        "kind": 6,
+        "importPath": "web_project.MainApp.admin",
+        "description": "web_project.MainApp.admin",
+        "peekOfCode": "class ListingAdmin(admin.ModelAdmin) :\n  list_display = ('id','title', 'price', 'list_date', 'published', 'realtor')\n  list_display_links = ('id', 'title')\n  list_filter = ('realtor',)\n  list_editable = ('published',)\n  search_fields = ('title', 'description', 'city', 'address', 'state', 'zipcode', 'price')\n  list_per_page = 25\nadmin.site.register(Listing, ListingAdmin)  \nclass RealtorAdmin(admin.ModelAdmin) :\n  list_display = ('id','name', 'phone', 'email', 'id_mvp' , 'hire_date')",
+        "detail": "web_project.MainApp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "RealtorAdmin",
+        "kind": 6,
+        "importPath": "web_project.MainApp.admin",
+        "description": "web_project.MainApp.admin",
+        "peekOfCode": "class RealtorAdmin(admin.ModelAdmin) :\n  list_display = ('id','name', 'phone', 'email', 'id_mvp' , 'hire_date')\n  list_display_links = ('id', 'name')\n  list_filter = ('name',)\n  search_fields = ('name',)\n  list_per_page = 25\nadmin.site.register(Realtors, RealtorAdmin)\nclass ContactAdmin(admin.ModelAdmin) :\n  list_display = ('id','name','listing','email','contact_date')\n  lits_display_link = ('id','name')",
+        "detail": "web_project.MainApp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ContactAdmin",
+        "kind": 6,
+        "importPath": "web_project.MainApp.admin",
+        "description": "web_project.MainApp.admin",
+        "peekOfCode": "class ContactAdmin(admin.ModelAdmin) :\n  list_display = ('id','name','listing','email','contact_date')\n  lits_display_link = ('id','name')\n  search_field = ('name', 'email','listing')\n  listing_per_page = 25\nadmin.site.register(Contact, ContactAdmin)",
+        "detail": "web_project.MainApp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MainappConfig",
+        "kind": 6,
+        "importPath": "web_project.MainApp.apps",
+        "description": "web_project.MainApp.apps",
+        "peekOfCode": "class MainappConfig(AppConfig):\n    name = 'MainApp'",
+        "detail": "web_project.MainApp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Realtor",
+        "kind": 6,
+        "importPath": "web_project.MainApp.models",
+        "description": "web_project.MainApp.models",
+        "peekOfCode": "class Realtors (models.Model):\n  name = models.CharField(max_length=200)\n  photo = models.ImageField(upload_to=\"Realtors_photo\")\n  description = models.TextField()\n  phone = models.CharField(max_length=30 , default=\"+212\")\n  email = models.EmailField(max_length=50)\n  id_mvp = models.BooleanField(default=False)\n  hire_date = models.DateTimeField(default=datetime.now , blank=True) \n  def __str__(self) :\n    return self.name",
+        "detail": "web_project.MainApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Listing",
+        "kind": 6,
+        "importPath": "web_project.MainApp.models",
+        "description": "web_project.MainApp.models",
+        "peekOfCode": "class Listing(models.Model) :\n  realtor = models.ForeignKey(Realtors , on_delete=models.DO_NOTHING)\n  title = models.CharField(max_length=300)\n  address = models.CharField(max_length=300)\n  city = models.CharField(max_length=300)\n  state = models.CharField(max_length=300)\n  zipcode = models.CharField(max_length=300)\n  description = models.TextField(blank=True)\n  price = models.IntegerField()\n  bedroom = models.IntegerField()",
+        "detail": "web_project.MainApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Contact",
+        "kind": 6,
+        "importPath": "web_project.MainApp.models",
+        "description": "web_project.MainApp.models",
+        "peekOfCode": "class Contact(models.Model) :\n  listing = models.CharField(max_length=200)\n  listing_id = models.IntegerField()\n  name = models.CharField(max_length=200) \n  email = models.CharField(max_length=100)\n  phone = models.CharField(max_length=100)\n  message = models.TextField(blank=True)\n  contact_date = models.DateTimeField(default=datetime.now, blank=True)\n  user_id = models.IntegerField(blank=True)\n  def __str__(self) :",
+        "detail": "web_project.MainApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "city_choice",
+        "kind": 5,
+        "importPath": "web_project.MainApp.search_choices",
+        "description": "web_project.MainApp.search_choices",
+        "peekOfCode": "city_choice = {\n  'Rb' : 'Rabat' ,\n  'Sl'  : 'Sale' ,\n  'Fs'  : 'Fes' ,\n  'Cb' : 'Casa' ,\n  'Ad' : 'Agadir'\n}",
+        "detail": "web_project.MainApp.search_choices",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "web_project.MainApp.urls",
+        "description": "web_project.MainApp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('' , views.home , name='home'),\n    path('lists', views.listings , name=\"listings\"),\n    path('listing_details/<int:listing_id>' , views.listing_details, name=\"listing_details\"),\n    path('search' , views.search, name='search'),\n    path('about' , views.about , name='about'),\n    path('contact', views.contact, name='contact')\n]",
+        "detail": "web_project.MainApp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "web_project.MainApp.views",
+        "description": "web_project.MainApp.views",
+        "peekOfCode": "def home(request) :\n    lists = Listing.objects.order_by('-list_date').filter(published=True)[:3]\n    context = {'lists':lists , \n              'bedroom_choice' : bedroom_choice , \n              'price_choice' : price_choice , \n              'city_choice' : city_choice \n              }\n    return render(request , 'home.html' , context )  \ndef listings(request) :\n    lists =  Listing.objects.order_by('-list_date').filter(published=True)",
+        "detail": "web_project.MainApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "listings",
+        "kind": 2,
+        "importPath": "web_project.MainApp.views",
+        "description": "web_project.MainApp.views",
+        "peekOfCode": "def listings(request) :\n    lists =  Listing.objects.order_by('-list_date').filter(published=True)\n    #Paginator\n    paginator = Paginator(lists, 3) \n    page = request.GET.get('page')\n    listing_paged = paginator.get_page(page)\n    return render(request, 'listings.html' , {'listing_paged': listing_paged})\ndef listing_details(request, listing_id):\n   listing = get_object_or_404(Listing , pk=listing_id)\n   return render(request, 'listing.html' , {'listing' : listing})",
+        "detail": "web_project.MainApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "listing_details",
+        "kind": 2,
+        "importPath": "web_project.MainApp.views",
+        "description": "web_project.MainApp.views",
+        "peekOfCode": "def listing_details(request, listing_id):\n   listing = get_object_or_404(Listing , pk=listing_id)\n   return render(request, 'listing.html' , {'listing' : listing})\ndef search(request) :\n    query_list = Listing.objects.order_by('-list_date')\n    #Keyword\n    if \"keywords\" in request.GET :\n        keywords = request.GET[\"keywords\"]\n        if keywords :\n            query_list = query_list.filter(description__icontains=keywords) #keywords inside description field",
+        "detail": "web_project.MainApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "web_project.MainApp.views",
+        "description": "web_project.MainApp.views",
+        "peekOfCode": "def search(request) :\n    query_list = Listing.objects.order_by('-list_date')\n    #Keyword\n    if \"keywords\" in request.GET :\n        keywords = request.GET[\"keywords\"]\n        if keywords :\n            query_list = query_list.filter(description__icontains=keywords) #keywords inside description field\n    #City \n    if \"city\" in request.GET :\n        city = request.GET[\"city\"]",
+        "detail": "web_project.MainApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "about",
+        "kind": 2,
+        "importPath": "web_project.MainApp.views",
+        "description": "web_project.MainApp.views",
+        "peekOfCode": "def about(request) : \n    realtors = Realtors.objects.order_by('-hire_date')\n    #Get Mvp\n    mvp_realtor = Realtors.objects.all().filter(id_mvp=True)\n    context = {'realtors' : realtors , \n               'mvp_realtor' : mvp_realtor \n               }\n    return render(request, 'about.html' , context)\n# CONTACT FORM\ndef contact(request) :",
+        "detail": "web_project.MainApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "contact",
+        "kind": 2,
+        "importPath": "web_project.MainApp.views",
+        "description": "web_project.MainApp.views",
+        "peekOfCode": "def contact(request) :\n    if request.method == \"POST\" :\n        listing = request.POST[\"listing\"]\n        listing_id = request.POST[\"listing_id\"]\n        name = request.POST[\"name\"]\n        email = request.POST[\"email\"]\n        phone = request.POST[\"phone\"]\n        message = request.POST[\"message\"]\n        user_id = request.POST[\"user_id\"]\n        realtor_email = request.POST[\"realtor_email\"]",
+        "detail": "web_project.MainApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "web_project.web_project.asgi",
+        "description": "web_project.web_project.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "web_project.web_project.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '8r*71)26fy81=#w3*zh$hbla0sl=3m^utiibe_8&6xj$-9&$b@'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "SECRET_KEY = '8r*71)26fy81=#w3*zh$hbla0sl=3m^utiibe_8&6xj$-9&$b@'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'MainApp',",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'MainApp',\n    'account',\n    # 'contact',",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'web_project.urls'",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "ROOT_URLCONF = 'web_project.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'web_project.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\n#DATABASES = {\n #  'default': {\n#    'ENGINE': 'django.db.backends.sqlite3',\n#    'NAME': BASE_DIR / 'db.sqlite3',\n #  }\n#}\nDATABASES = {",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#DATABASES",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "#DATABASES = {\n #  'default': {\n#    'ENGINE': 'django.db.backends.sqlite3',\n#    'NAME': BASE_DIR / 'db.sqlite3',\n #  }\n#}\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'vue_ta',",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'vue_ta',\n        'USER' : 'postgres',\n        'PASSWORD' : 'schooltech',\n        'HOST' : 'localhost'\n    }\n}\n# Password validation",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'MainApp/static')",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'MainApp/static')\n]",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'MainApp/static')\n]\n#Media_files for storing Picture",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'MainApp/static')\n]\n#Media_files for storing Picture\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'static')\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'MainApp/static')\n]\n#Media_files for storing Picture\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\n# Messages\nfrom django.contrib.messages import constants as messages",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'MainApp/static')\n]\n#Media_files for storing Picture\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\n# Messages\nfrom django.contrib.messages import constants as messages\nMESSAGE_TAGS = {",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'MainApp/static')\n]\n#Media_files for storing Picture\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\n# Messages\nfrom django.contrib.messages import constants as messages\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger' ",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\n# Messages\nfrom django.contrib.messages import constants as messages\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger' \n}\n# SEND EMAIL\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 578",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\n# Messages\nfrom django.contrib.messages import constants as messages\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger' \n}\n# SEND EMAIL\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 578\nEMAIL_HOST_USER = 'ajdourelhassa2096@gmail.com'",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MESSAGE_TAGS",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "MESSAGE_TAGS = {\n    messages.ERROR: 'danger' \n}\n# SEND EMAIL\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 578\nEMAIL_HOST_USER = 'ajdourelhassa2096@gmail.com'\nEMAIL_HOST_PASSWORD = 'schooltech1996'\nEMAIL_USER_TLS = True",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "EMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 578\nEMAIL_HOST_USER = 'ajdourelhassa2096@gmail.com'\nEMAIL_HOST_PASSWORD = 'schooltech1996'\nEMAIL_USER_TLS = True",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "EMAIL_PORT = 578\nEMAIL_HOST_USER = 'ajdourelhassa2096@gmail.com'\nEMAIL_HOST_PASSWORD = 'schooltech1996'\nEMAIL_USER_TLS = True",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "EMAIL_HOST_USER = 'ajdourelhassa2096@gmail.com'\nEMAIL_HOST_PASSWORD = 'schooltech1996'\nEMAIL_USER_TLS = True",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = 'schooltech1996'\nEMAIL_USER_TLS = True",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USER_TLS",
+        "kind": 5,
+        "importPath": "web_project.web_project.settings",
+        "description": "web_project.web_project.settings",
+        "peekOfCode": "EMAIL_USER_TLS = True",
+        "detail": "web_project.web_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "web_project.web_project.urls",
+        "description": "web_project.web_project.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('' , include('MainApp.urls')),\n    path('' , include('account.urls')),\n]  + static (settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "web_project.web_project.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "web_project.web_project.wsgi",
+        "description": "web_project.web_project.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "web_project.web_project.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "web_project.manage",
+        "description": "web_project.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'web_project.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "web_project.manage",
+        "documentation": {}
+    }
+]

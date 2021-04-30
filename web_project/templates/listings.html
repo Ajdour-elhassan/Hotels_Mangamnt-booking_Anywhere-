@@ -1,4 +1,12 @@
-{% extends 'base.html' %} {% block content %} {% load humanize %} {% load static %}
+{% extends 'base.html' %} {% load humanize %} {% load static %}
+
+
+<!--  Block title -->
+{% block title %} Browse Listings {% endblock title %}
+<!-- End block title -->
+
+{% block content %}
+
 <!-- background -->
 <section id="showcase-inner" class="py-5 text-white">
     <div class="container">
@@ -27,51 +35,52 @@
     </div>
 </section>
 <!-- End of Breadcrumb -->
-
 <!-- Listings -->
 <section id="listings" class="py-4">
     <div class="container">
         <div class="row">
             <!-- Listings -->
-            {% if listing_paged %} {% for list in listing_paged %}
+            {% if listing_paged %}
+            <!--Dispalying listing-->
+            {% for listing in listing_paged %}
             <div class="col-md-6 col-lg-4 mb-4">
                 <div class="card listing-preview">
-                    <img class="card-img-top" src="{{list.main_photo.url}}" alt="">
+                    <img class="card-img-top" src="{{listing.main_photo.url}}" alt="">
                     <div class="card-img-overlay">
                         <h2>
-                            <span class="badge badge-secondary text-white">{{list.price | intcomma }}$</span>
+                            <span class="badge badge-secondary text-white">{{listing.price | intcomma }}$</span>
                         </h2>
                     </div>
                     <div class="card-body">
                         <div class="listing-heading text-center">
-                            <h4 class="text-primary">{{list.title}}</h4>
+                            <h4 class="text-primary">{{listing.title}}</h4>
                             <p>
-                                <i class="fas fa-map-marker text-secondary"></i> {{list.address}}, {{list.state}}, {{list.city}}, {{list.zipcode}} </p>
+                                <i class="fas fa-map-marker text-secondary"></i> {{listing.address}}, {{list.state}}, {{list.city}}, {{list.zipcode}} </p>
                         </div>
                         <hr>
                         <div class="row py-2 text-secondary">
                             <div class="col-6">
-                                <i class="fas fa-th-large"></i> Saft {{list.saft}}</div>
+                                <i class="fas fa-th-large"></i> Saft {{listing.saft}}</div>
                             <div class="col-6">
-                                <i class="fas fa-car"></i> Garage : {{list.Garage}}</div>
+                                <i class="fas fa-car"></i> Garage : {{listing.Garage}}</div>
                         </div>
                         <div class="row py-2 text-secondary">
                             <div class="col-6">
-                                <i class="fas fa-bed"></i>bedroom : {{list.bedroom }}</div>
+                                <i class="fas fa-bed"></i>bedroom : {{listing.bedroom }}</div>
                             <div class="col-6">
-                                <i class="fas fa-bath"></i> Bathrooms: {{list.bedrooms}}} </div>
+                                <i class="fas fa-bath"></i> Bathrooms: {{listing.bedrooms}}} </div>
                         </div>
                         <hr>
                         <div class="row py-2 text-secondary">
                             <div class="col-12">
-                                <i class="fas fa-user"></i>Realtor : {{list.realtor}}</div>
+                                <i class="fas fa-user"></i>Realtor : {{listing.realtor}}</div>
                         </div>
                         <div class="row text-secondary pb-2">
                             <div class="col-6">
-                                <i class="fas fa-clock"></i>Published : {{list.list_date | timesince}}</div>
+                                <i class="fas fa-clock"></i>Published : {{listing.list_date | timesince}}</div>
                         </div>
                         <hr>
-                        <a href="{% url 'list' list.id %}" class="btn btn-primary btn-block">More Info</a>
+                        <a href="{% url 'listing_details' listing.id %}" class="btn btn-primary btn-block">More Info</a>
                     </div>
                 </div>
             </div>
